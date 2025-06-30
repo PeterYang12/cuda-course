@@ -19,6 +19,7 @@ int main() {
   person2->name = "not elliot";
 
   printf("age: %d\tname: %s\n", person2->age, person2->name);
+  free(person2);
   return 0;
 }
 
