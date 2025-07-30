@@ -1,5 +1,6 @@
 {
     "files.associations": {
+        "*.h": "cpp",
         "array": "cpp",
         "atomic": "cpp",
         "bit": "cpp",
@@ -57,6 +58,7 @@
         "typeinfo": "cpp",
         "__nullptr": "cpp",
         "iomanip": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "mat_gpu": "c"
     }
 }
